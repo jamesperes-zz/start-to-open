@@ -13,4 +13,4 @@ e colocar um link aqui pra cada dia
 
 ## Dias
 
-  - Dia 01 - Start do projeto, Criação de Plano de estudo
+  - Dia 01 - Start do projeto, Criação de Plano de estudo [link](https://github.com/jamesperes/start-to-open/tree/master/days/day-01)
